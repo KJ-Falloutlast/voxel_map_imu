@@ -1,0 +1,2 @@
+VoxelMap:livox_ros_driver/livox_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/kim-james/ROS_Space/voxelmap_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kim-james/ROS_Space/voxelmap_ws/install -G Unix Makefiles
